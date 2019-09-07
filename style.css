@@ -89,8 +89,8 @@ h1{
     margin-bottom: 30px;
 }
 h2{
-    color:#000066;
-    text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+    color:#6875eb;
+    text-shadow: 0 2px 0 rgba(0,0,0,0.5);
 }
 h1+p{
     font-size: 24px;
@@ -103,12 +103,12 @@ h1+p{
     line-height:60px;
 
 }
-#post{
+.post{
     margin-bottom: 30px;
     background-color: rgba(0,0,0,0.3);
     padding: 20px;
-    border-bottom: 3px solid #000066;
-    border-left: 3px solid #000066;
+    border-bottom: 3px solid #6875eb;
+    border-left: 3px solid  #6875eb;
 
     box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, .5);
  }
