@@ -74,6 +74,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center center;
+    background-color: black;
 }
 div{
     width: 724px;
