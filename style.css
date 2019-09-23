@@ -109,15 +109,12 @@ h1+p{
     padding: 20px;
     border-bottom: 3px solid #6875eb;
     border-left: 3px solid  #6875eb;
-
     box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, .5);
- }
 }
 p{
     font-weight: normal;
     font-style: normal;
 }
-
 #upr2-3 {
   width: 90%;
   height: 90%;
