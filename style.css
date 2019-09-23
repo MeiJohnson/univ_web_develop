@@ -117,3 +117,15 @@ p{
     font-weight: normal;
     font-style: normal;
 }
+
+#upr2-3 {
+  width: 90%;
+  height: 90%;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+}
