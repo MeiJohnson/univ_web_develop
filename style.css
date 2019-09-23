@@ -70,11 +70,9 @@ body{
     line-height: 24px;
     color: white;
     font-family: 'Roboto Condensed';
-    background:linear-gradient( rgba(0, 0, 0, 0.5),rgba(255, 255, 255, 0.08) ), url("night-photograph-2183637_1920.jpg");
-    background-repeat: no-repeat;
+    background:linear-gradient( rgba(0, 0, 0, 0.5),rgba(255, 255, 255, 0.08) ), url("pattern.png");
+    background-repeat: repeat repeat;
     background-attachment: fixed;
-    background-size: cover;
-    background-position: center center;
     background-color: black;
 }
 div{
@@ -85,12 +83,12 @@ div{
 h1{
     font-size: 60px;
     font-weight: bold;
-    text-shadow: 0 3px 0 rgba(0,0,0,0.3);
+    text-shadow: 0 3px 0 rgba(0,0,0,0.5);
     margin-bottom: 30px;
 }
 h2{
-    color:#6875eb;
-    text-shadow: 0 2px 0 rgba(0,0,0,0.5);
+    color:#96A3D5;
+    text-shadow: 0 2px 5px rgba(0,0,0,0.8);
 }
 h1+p{
     font-size: 24px;
@@ -105,7 +103,7 @@ h1+p{
 }
 .post{
     margin-bottom: 30px;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.5);
     padding: 20px;
     border-bottom: 3px solid #6875eb;
     border-left: 3px solid  #6875eb;
